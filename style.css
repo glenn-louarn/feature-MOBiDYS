@@ -1,0 +1,23 @@
+.navBarColor {
+    background-color: #305534;
+}
+
+.text {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  text-align: center;
+  margin-left: 380px;
+}
+#icons{
+    background-color: #305534;
+    padding-bottom: 40px;
+
+}
+#mydivheader {
+  cursor: move;
+  z-index: 10;
+}
